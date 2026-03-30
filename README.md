@@ -207,6 +207,8 @@ RF001:o site deve ter uma filtragem de nomes localizações e abilidades
 
 RF002: o usuario deve poder visualizar as informações da Baba
 
+RF003: o  site deve permitir que voce fasa agendas para babas
+
 **5.1 O que são requisitos funcionais?**
 
 Um requisito funcional é uma declaração de como um sistema deve se comportar. Define o que o sistema deve fazer para atender às necessidades ou expectativas do usuário. Os requisitos funcionais podem ser pensados ​como recursos que o usuário detecta.
@@ -352,6 +354,8 @@ negócio. Lembre-se que, diferentemente das entradas e processos, aqui os dados 
   - **Usuários:** todos os níveis de usuário.
 
 # 6. Requisitos não funcionais
+
+RNF001: o site deve ser feito em cores pasteis
 
 Requisitos não funcionais (**RNFs**) são as restrições impostas a um sistema que definem seus atributos de qualidade.
 
