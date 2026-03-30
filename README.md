@@ -125,6 +125,7 @@ Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um
 precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
 
 # 4. Modelagem de Dados
+<img width="1431" height="647" alt="image" src="https://github.com/user-attachments/assets/b699f16d-71b7-42df-833d-2adcb2d4894a" />
 
 
 
