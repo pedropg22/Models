@@ -205,11 +205,23 @@ RF001: ao entar no site  o usuario deve ver uma parte introdutoria onde em seu f
 
 RF002: se o usuario escolher baba ele deve logar com essas informações: Nome da babá ,Data de nascimento,Experiência,Preço,Educação,Dias disponiveis,Habilidades,Sobre você,CPF,Número de telefone, Endereço ,Alergias, Condições medicas
 
-RF001:o site deve ter uma filtragem de nomes localizações e abilidades
+RF003: se o usuario logar como pais  ele deve cadastrar pais com essas informações: Nome de responsavel,CPF,Número de telefone,Endereço
 
-RF002: o usuario deve poder visualizar as informações da Baba
+RF004: o usuario que estiver logando como pai deve tambem cadastar seus filhos com as seguintes informações para cada filho: Nome da criança,Genero,Idade,Alergias,Condições fisicas/mentais
 
-RF003: o  site deve permitir que voce fasa agendas para babas
+RF005: se o usuario  tiver logado como baba ela deve iniar numa tela onde vera seus medidos os rrspondera.
+
+RF006: o usuario  tipo baba deve ter uma segunda area onde pode ver seu perfil e la adicionar sua foto
+
+RF007: se o usuario logar como pai ele deve iniciar em uma parte onde ele ve as opçoes de babas la tendo um resumo de suas informações e suas fotos
+
+RF008:o site deve ter uma filtragem de nomes localizações e abilidades das babas
+
+RF009: se o usuario tipo pai clicar em um perfil de uma baba , deve-se caregar uma pagina da baba e suas informações onde abaixo avera um calendario com seus dias disponiveis e um botão de atendimento
+
+RF010: o  site deve abrir uma pagina de agendamentos ao clicar em agendamentos na pagina baba do usuario
+
+RF011: a pagina de agendamentos onde dele a informação do preso sua disponibilidade e abaixo um botão de pgamento que levara a sua cha
 
 **5.1 O que são requisitos funcionais?**
 
