@@ -2,7 +2,7 @@
 *(baby corporation.)*
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
-*(Em nosso site pode-se achar serviços de babas e seu a curriculo logo abaixo.)*
+*(Em nosso site pode-se achar serviços de babás e seu curriculo logo abaixo.)*
 
 **IMPORTANTE**: [**Cadastre seu projeto nesta planilha**](https://docs.google.com/spreadsheets/d/1bSb1-S9qOf46fNH8quyoFpcjcTuBMj_EdSPchOuFULY/edit?usp=sharing).
 
@@ -31,46 +31,9 @@ Links do projeto:
    - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 5. Edite o arquivo README.md com as informações do seu projeto.
 
-# 1. Desenvolvimento
-*(Escolha um dos modelos de sistemas para desenvolver o projeto. Apague as informações desnecessárias depois.)*
--   As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
--   Cada equipe deverá escolher um sistema para o desenvolvimento das atividades, a partir dos modelos apresentados.
-
 **1.1 Modelos de Sistemas**
 
 **Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
-
-**1.1.1 Ponto de Vendas (PDV)**
-
-Um sistema de ponto de vendas é um software que permite a um estabelecimento comercial registrar as vendas realizadas, gerenciar o estoque, emitir notas fiscais, etc. Ele é utilizado principalmente em lojas, supermercados, padarias, restaurantes, etc.
-
-**Exemplos de sistemas de pontos de vendas:**
-- Padaria, supermercado, cafeteria, pizzaria, restaurante, etc.
-- Farmácia, loja de roupas, papelaria, etc.
-
-
-**Exemplo: Gerenciamento de vendas para uma padaria**
-
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
-
-**1.1.2 Empréstimo**
-
-Um sistema de empréstimo é um software que permite a uma instituição, como uma biblioteca, gerenciar o empréstimo de livros, revistas, etc. Ele é utilizado principalmente em bibliotecas, escolas, universidades, etc.
-
-**Exemplos de sistemas de empréstimo:**
-- Biblioteca, coworking, estacionamento, etc.
-- Locadora de veículos, aluguel de equipamentos, etc.
-- Aluguel de imoveis, etc.
-- Aluguel de trajes, fantasias, brinquedos para festas, etc.
-
-**Exemplo: Gerenciamento de uma biblioteca**
-
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
 
 **1.1.3 Ordem de Serviço (O.S.)**
 
@@ -81,52 +44,25 @@ Um sistema de ordem de serviço é um software que permite a uma empresa, como u
 - Manutenção de veículos, etc.
 - Manutenção de eletrodomésticos, etc.
 
-
-**Exemplo:Manutenção de computadores**
-
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio no qual ele é responsável pelos consertos e sua esposa, Marília, realiza o atendimento aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante para ele conseguir ter relatórios que o ajudem na gestão da empresa, como o status dos serviços.
-
+ 
 # 2. Situação Problema
 
-*(Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.)*
+A “Babyscorporation” é uma rede de babás que conecta famílias e profissionais, mas atualmente funciona de forma manual, usando principalmente Whatsapp e planilhas. O agendamento é demorado, porque depende de confirmar disponibilidade individualmente com cada babá, podendo gerar conflitos de horário.
 
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
+As informações das profissionais são desorganizadas, dificultando a escolha da mais adequada. Além disso, não há controle eficiente dos pagamentos, nem um sistema estruturado de avaliações. A comunicação é dispersa e sujeita a erros.
 
-Descrevem o que acontece atualmente na empresa em um contexto global,
-abordando o funcionamento da empresa como um todo, não apenas os “problemas” que lá ocorrem.
-
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
-
--   Pesquise sobre empresas do ramo escolhido
-    para entender como funcionam;
--   Aproveite seus conhecimentos previamente adquiridos na área da empresa que escolheu, se houver;
--   Simule uma situação real. Lembre-se que são propostas com empresas fictícias, sendo assim, você terá que tomar certas decisões sobre como a empresa funciona em relação às coisas que não estão definidas no documento base (por exemplo, no caso da padaria, dizemos que seu Genival contratou mais funcionários, mas saber quantos e o que fazem pode ser relevante para o software), então tente “visualizar” a empresa funcionando, como se você estivesse lá acompanhando o dia-a-dia;
-
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
-
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários, etc);
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
+Esses problemas mostram a necessidade de um sistema que organize e automatize os processos da empresa.
 
 # 3. Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
+O software proposto terá como foco centralizar e automatizar o gerenciamento da rede de babás. Ele permitirá controlar agendas, cadastrar profissionais, organizar informações, registrar avaliações e acompanhar pagamentos.
 
-**Alguns pontos importantes a se destacar são:**
+Haverá dois tipos de usuários: o administrador, com acesso completo, as babás, que poderão gerenciar sua disponibilidade e atendimentos e os clientes, que poderam requisitar os serviços da empresa.
 
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.
--   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
-
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+Com isso, a empresa ganhará mais organização, agilidade e qualidade no serviço prestado.
 
 # 4. Modelagem de Dados
 <img width="1431" height="647" alt="image" src="https://github.com/user-attachments/assets/b699f16d-71b7-42df-833d-2adcb2d4894a" />
-
 
 
 
