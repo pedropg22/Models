@@ -201,6 +201,10 @@ repassar ao cliente para aprovação, e caso o cliente aprovar, a atendente deve
 # 5. Requisitos funcionais
 (*Nessa parte a equipe deve descrever os requisitos funcionais que serão implementados no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
 
+RF001: ao entar no site  o usuario deve ver uma parte introdutoria onde em seu final tera a opção de logar como responsavel ou baba
+
+RF002: se o usuario escolher baba ele deve logar com essas informações: Nome da babá ,Data de nascimento,Experiência,Preço,Educação,Dias disponiveis,Habilidades,Sobre você,CPF,Número de telefone, Endereço ,Alergias, Condições medicas
+
 RF001:o site deve ter uma filtragem de nomes localizações e abilidades
 
 RF002: o usuario deve poder visualizar as informações da Baba
