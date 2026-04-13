@@ -221,9 +221,19 @@ RF009: se o usuario tipo pai clicar em um perfil de uma baba , deve-se caregar u
 
 RF010: o  site deve abrir uma pagina de agendamentos ao clicar em agendamentos na pagina baba do usuario
 
-RF011: a pagina de agendamentos onde dele a informação do preso sua disponibilidade e abaixo um botão de pgamento que levara a sua cha
+RF011: a pagina de agendamentos onde dele a informação do preso sua disponibilidade e abaixo um botão de pgamento que levara a sua chave pix
+
+
 
 **5.1 O que são requisitos funcionais?**
+
+
+RNF001: o site deve ser feito em cores pasteis
+
+RNF002: o frontend deve ser feito em vue.js
+
+RN003: o backend deve ser feito com pytoon jungle
+
 
 Um requisito funcional é uma declaração de como um sistema deve se comportar. Define o que o sistema deve fazer para atender às necessidades ou expectativas do usuário. Os requisitos funcionais podem ser pensados ​como recursos que o usuário detecta.
 
