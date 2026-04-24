@@ -62,7 +62,8 @@ Haverá dois tipos de usuários: o administrador, com acesso completo, as babás
 Com isso, a empresa ganhará mais organização, agilidade e qualidade no serviço prestado.
 
 # 4. Modelagem de Dados
-<img width="1431" height="647" alt="image" src="https://github.com/user-attachments/assets/b699f16d-71b7-42df-833d-2adcb2d4894a" />
+<img width="727" height="548" alt="WhatsApp Image 2026-04-24 at 12 59 57" src="https://github.com/user-attachments/assets/87b3d931-ec23-43c6-8b04-d87521ab2b63" />
+
 
 
 
