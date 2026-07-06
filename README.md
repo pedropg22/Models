@@ -131,4 +131,4 @@ RNF013: O sistema deve ser feito com python django.
 
 https://babycorporation-backend.class.fabricadesoftware.ifc.edu.br/
 
-https://babycorporation-frontend-eta.vercel.app/
+https://vercel.com/daniel-henrique-fernandes090901/babycorporation-frontend
