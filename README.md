@@ -129,6 +129,6 @@ RNF013: O sistema deve ser feito com python django.
 # 6. lincks para o frontend vercel e Backend no Fabroku
 
 
-https://babycorporation-backend.class.fabricadesoftware.ifc.edu.br/
+https://babycorpback-production.up.railway.app/admin/
 
-https://vercel.com/daniel-henrique-fernandes090901/babycorporation-frontend
+https://babycorporation-frontend.vercel.app
